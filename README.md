@@ -1,6 +1,6 @@
 ![Mēsōjōki Title Image](images/meisoujouki.jpg)
-###### 明窓浄机・めいそうじょうき・mēsōjōki
-Everything you need to learn Japanese from first word to first novel.
+<h6 align="center">明窓浄机・めいそうじょうき・mēsōjōki</h6>
+<p align="center">Everything you need to learn Japanese from first word to first novel.</p>
 
 ## Contents
 - [Summary](#summary)
