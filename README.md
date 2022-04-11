@@ -1,39 +1,101 @@
 ![Mēsōjōki Title Image](images/meisoujouki.jpg)
-<h3>明窓浄机・めいそうじょうき・mēsōjōki</h3>
-<h6>noun, yojijukugo; well-lit and clean desk conducive to learning</h6>
-<p>Everything you need to learn Japanese from first word to first novel.</p>
+### 明窓浄机・めいそうじょうき・mēsōjōki
+###### noun, yojijukugo; well-lit and clean desk conducive to learning
+Everything you need to learn Japanese from first word to first novel.
 
-## Contents
+# Contents
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Reach Me](#reach-me)
 
-## Summary
+# Summary
 Summary goes here.
 
-## Community
+# Community
 Link to discord goes here.
 
-## Curriculum
-- [Prework]()
-  - [Motivation]()
-  - [Logistics]()
-  - [Roadmap, Priorities, Philosophy]()
-  - [Software and Tools]()
-- [Squiggles]()
-  - [Hiragana]()
-  - [Kanji]()
-  - [Katakana]()
-- [Beginner]()
-  - [Genki I]()
-  - [Genki II]()
-  - [Optional Benchmark: JLPT N5 and JLPT N4]()
-- [Intermediate]()
-  - [Tobira]()
-- [Advanced]()
-  - [*Making Sense of Japanese*]()
-- [Enlightenment]()
-  - JLPT N1 grammar books from shinkanzen or the other sōmatome.
+# Curriculum
+- [Prework](#prework)
+- [Squiggles](#squiggles)
+- [Foundations](#foundations)
+- [中級・ちゅうきゅう](#intermediate)
+- [上級](#advanced)
+- [真如](#enlightenment)
 
-## Reach Me
+---
+
+## Prework
+
+#### Course Roadmap and Philosophy
+#### Time Commitment
+#### Motivation
+#### Software and Tools
+#### Suggested Reading: *English Grammar for Students of Latin*
+
+## Squiggles
+
+#### Hiragana
+#### Kanji
+#### Katakana
+
+[Back to Curriculum](#curriculum)
+
+## Foundations
+
+#### Textbooks
+#### Reading
+#### Listening
+#### Optional Benchmark: JLPT N4
+
+| Textbooks | Reading    | Listening      |
+|:----------|:-----------|:---------------|
+|Genki I    |Manga       |Music           |
+|Genki II   |Music Lyrics|JapanesePod101  |
+|Tofugu     |            |                |
+
+[Back to Curriculum](#curriculum)
+
+## 中級・ちゅうきゅう (#intermediate)
+
+#### Textbooks
+#### Reading
+#### Listening
+#### Optional Benchmark: JLPT N3
+
+| Textbooks | Reading          | Listening      |
+|:----------|:-----------------|:---------------|
+|Tobira     |Childhood Favorite|Nihongo Switch  |
+|Book on culture (uchi, soto, amaeru, etc.)|||
+
+[Back to Curriculum](#curriculum)
+
+## 上級 (#advanced)
+
+#### Textbooks
+#### Reading
+#### Listening
+#### Optional Benchmark: JLPT N2
+
+| Textbooks                | Reading               | Listening             |
+|:---                      |:---                   |:---                   |
+|*新完全マスタ：文法（N2）*    |Popular (adult) fiction|Podcasts               |
+|*Making Sense of Japanese*|Twitter                |Nihongo No Mori JLPT N2|
+
+[Back to Curriculum](#curriculum)
+
+## 真如 (#enlightenment)
+
+#### Textbooks
+#### Reading
+#### Listening
+#### Optional Benchmark: JLPT N1
+
+| Textbooks        | Reading                       | Listening          |
+|:---              |:---                           |:---                |
+|Shinkanzen bunpō  |classics of modern japanese lit|Podcasts, TV, Movies|
+|Classical Japanese||||
+
+[Back to Curriculum](#curriculum)
+
+# Reach Me
