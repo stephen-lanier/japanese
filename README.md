@@ -19,9 +19,9 @@ Link to discord goes here.
 - [Prework](#prework)
 - [Squiggles](#squiggles)
 - [Foundations](#foundations)
-- [中級・ちゅうきゅう](#intermediate)
-- [上級](#advanced)
-- [真如](#enlightenment)
+- [中級・ちゅうきゅう](#中級・ちゅうきゅう)
+- [上級](#上級)
+- [真如](#真如)
 
 ---
 
@@ -56,7 +56,7 @@ Link to discord goes here.
 
 [Back to Curriculum](#curriculum)
 
-## 中級・ちゅうきゅう (#intermediate)
+## 中級・ちゅうきゅう
 
 #### Textbooks
 #### Reading
@@ -70,7 +70,7 @@ Link to discord goes here.
 
 [Back to Curriculum](#curriculum)
 
-## 上級 (#advanced)
+## 上級
 
 #### Textbooks
 #### Reading
@@ -84,7 +84,7 @@ Link to discord goes here.
 
 [Back to Curriculum](#curriculum)
 
-## 真如 (#enlightenment)
+## 真如
 
 #### Textbooks
 #### Reading
