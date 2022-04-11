@@ -1,6 +1,7 @@
 ![Mēsōjōki Title Image](images/meisoujouki.jpg)
-<h6 align="center">明窓浄机・めいそうじょうき・mēsōjōki</h6>
-<p align="center">Everything you need to learn Japanese from first word to first novel.</p>
+<h3>明窓浄机・めいそうじょうき・mēsōjōki</h3>
+<h6>noun, yojijukugo; well-lit and clean desk conducive to learning</h6>
+<p>Everything you need to learn Japanese from first word to first novel.</p>
 
 ## Contents
 - [Summary](#summary)
@@ -31,7 +32,7 @@ Link to discord goes here.
 - [Intermediate]()
   - [Tobira]()
 - [Advanced]()
-  - [Making Sense of Japanese]()
+  - [*Making Sense of Japanese*]()
 - [Enlightenment]()
   - JLPT N1 grammar books from shinkanzen or the other sōmatome.
 
