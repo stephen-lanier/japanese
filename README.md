@@ -43,9 +43,6 @@ Link to discord goes here.
 
 ## Foundations
 
-#### Textbooks
-#### Reading
-#### Listening
 #### Optional Benchmark: JLPT N4
 
 | Textbooks | Reading    | Listening      |
@@ -58,9 +55,6 @@ Link to discord goes here.
 
 ## 中級・ちゅうきゅう <a id="intermediate"></a>
 
-#### Textbooks
-#### Reading
-#### Listening
 #### Optional Benchmark: JLPT N3
 
 | Textbooks | Reading          | Listening      |
@@ -72,9 +66,6 @@ Link to discord goes here.
 
 ## 上級
 
-#### Textbooks
-#### Reading
-#### Listening
 #### Optional Benchmark: JLPT N2
 
 | Textbooks                | Reading               | Listening             |
@@ -86,9 +77,6 @@ Link to discord goes here.
 
 ## 真如
 
-#### Textbooks
-#### Reading
-#### Listening
 #### Optional Benchmark: JLPT N1
 
 | Textbooks        | Reading                       | Listening          |
