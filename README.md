@@ -62,7 +62,7 @@ If that weren't reason enough to learn kanji (there's still a camp of people who
 
 ![kanji!!!](images/kanji_are_important.jpeg)
 
-The 1st column on the left shows the original Chinese word with characters, and the 2nd and 3rd columns show its modern pronunciation in Mandarin and Cantonese, respectively. The 4th column shows the modern Korean pronunciation. They used to use kanji (called hanja), but now they mostly use an alphabet (hangeul). The second to last column is the ancient Japanese pronunciation and the last column is the modern Japanese pronunciation.
+The 1st column on the left shows the original Chinese word with characters, and the 2nd and 3rd columns show its modern pronunciation in Mandarin and Cantonese, respectively. The 4th column shows the modern Korean pronunciation. Korean used to use kanji (called hanja), but now it mostly uses an alphabet (hangeul). The second to last column is the ancient Japanese pronunciation and the last column is the modern Japanese pronunciation.
 
 What are we noticing?
 
