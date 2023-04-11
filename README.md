@@ -56,7 +56,7 @@ For most (all?) languages, verbal conjugation is another irreducible. It will ta
 
 This is the conjugation for 1 major type of verb in Latin. There are 4 major types, each with a layout as complex as the above, and worse still there are plenty of verbs with irregular conjugations that deviate a little (or a lot) from one of the four standard conjugations. For Japanese, verb (and noun and adjective) conjugation is definitely an irreducible component, and not a trivial one either, but I'm not recommending you start learning all Japanese conjugations from the beginning of your studies. There are more pressing concerns.
 
-Such as kanji. Kanji is the much more pressing concern. For the most part, written Japanese uses kanji for everything with a little bit of hiragana thrown in for conjugation and other grammatical purposes. You need to learn about 1,000 kanji to be able to start telling your head from your ass in a text, and about 2,000 kanji to start getting the nuances.
+Such as kanji. Kanji is the much more pressing concern. For the most part, written Japanese uses kanji for everything with a little bit of hiragana thrown in for conjugation and other grammatical purposes. You need to learn about 1,000 kanji to be able to start telling your head from your ass in a text, and you need about 2,000 kanji to start getting the nuances.
 
 If that weren't reason enough to learn kanji (there's still a camp of people who think they don't need to learn kanji?), even listening comprehension is made much, much easier by knowing kanji. I remember my first semester of study abroad in Tokyo, my Japanese language professor said (translating), "Japanese is full of homonyms. How do Japanese people tell the difference between *kanji* (感じ) and *kanji* (漢字)? Context, and something that's happening in their heads: *kanji*." Long story short, there's a reason that Japanese has kept using kanji while Korea, another language with a zillion Chinese-origin words, was able to more or less easily drop them. Take a look at this chart ([source](https://www.quora.com/When-Koreans-can-abandon-Chinese-characters-why-cant-the-Japanese)).
 
@@ -68,23 +68,24 @@ What are we noticing?
 
 That 45 words, mostly having all different pronunciations in modern Mandarin, Cantonese, and Korean each, have a single pronunciation in modern Japanese, *koushou*. Some of these words are archaic, but plenty of them are not. This isn't even all the words that are pronounced *koushou* in modern Japanese. So when you hear the word *koushou*, how do you figure out which of these words it is? Context and kanji. Sure, maybe you just memorize 45+ different possible meanings for the sound *koushou*, but having kanji in your head helps a ton.
 
-Plus, remember those caveats from earlier? Those little helper patterns that make learning new words easier? Kanji is one of those caveats for Japanese. When you learn kanji, you (kind of) start to get free words. Each kanji has one or at most a few core meanings, and when you combine them with other kanji, you start to get new, somewhat predictable meanings. 無, *mu*, means "no, none, nothing" and 口, *kuchi*, means mouth. Not surprisingly, 無口, *mukuchi*, means "taciturn, reticient, quiet".
+Plus, remember those caveats from earlier? Those little helper patterns that make learning new words easier? Kanji is one of those caveats for Japanese. When you learn kanji, you (kind of) start to get free words. Each kanji has one or at most a few core meanings, and two or at most a few core readings. When you combine one kanji with another, you start to get new, somewhat predictable meanings. 無, *mu*, means "no, none, nothing" and 口, *kuchi*, means mouth. Not surprisingly, 無口, *mukuchi*, means "taciturn, reticient, quiet".
 
 I hope you're sufficiently motivated. If you're used to life inside of an alphabet, kanji can seem tedious and archaic, but I pinky promise, in the long run they help with both listening and reading comprehension. Plus, they're just beautiful, aren't they?
 
 
 ## How to apply it
 
-1. **Learn hiragana**. All of them. Anki or physical flash cards or writing the full chart from memory. Take a week or two or even a month or five to learn them.
+1. **Learn hiragana**. All of them. Virtual Anki cards or physical flash cards or writing the full chart from memory. Take a week or two or even a month or five to learn them.
 2. **Learn katakana**. All of them. Timeframe and methodology as above.
 3. **Start learning kanji**. As soon as possible. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. You can use
   - physical flash cards, or
   - virtual flashcards like [Anki](https://apps.ankiweb.net/), or
-  - [WaniKani](https://www.wanikani.com/), my personal favorite (I'm not being paid to say that), or one of its (free) derivatives.
+  - [WaniKani](https://www.wanikani.com/), my personal favorite (I'm not being paid to say that), or one of its (free) derivatives, or
+  - even something like [Remembering the Kanji](https://www.goodreads.com/book/show/11377627-remembering-the-kanji-1) to get yourself started remembering meanings but not pronunciations
 
 Irreducible components, namely vocab and kanji, can be massive barriers to comfortably understanding and producing material in the target language, so start early, because the benefits compound continuously (I have no data to back this, merely a sincere and powerful feeling behind my sternum).
 
-So start, as close to day one as possible. Be flexible, but be relentless. Start with a few hundred of the most common words. When you find a song, anime, manga, book you like, pick out vocab, even a single new word, and throw it on your pile of flashcards.
+So start, as close to day one as possible. Be flexible, but be relentless. Just a few, or 10, or 20 new vocabulary words a day. Start with a few hundred of the most common words. When you find a song, anime, manga, book you like, pick out vocab, even a single new word, and throw it on your pile of flashcards.
 
 ## Extensive Consumption
 
@@ -122,11 +123,11 @@ Next, you need to **consume lots of native material**. Lots. As soon as you can.
 
 ## Optional Benchmark: JLPT N4
 
-| Textbooks | Reading    | Listening      |
-|:----------|:-----------|:---------------|
-|Genki I    |Manga       |Music           |
-|Genki II   |Music Lyrics|JapanesePod101  |
-|Tofugu     |            |                |
+| Textbooks | Reading     | Listening     |
+|:---       |:---         |:---           |
+|Genki I    |Manga        |Music          |
+|Genki II   |Music Lyrics |JapanesePod101 |
+|Tofugu     |             |               |
 
 [Back to Curriculum](#curriculum)
 
@@ -134,8 +135,8 @@ Next, you need to **consume lots of native material**. Lots. As soon as you can.
 
 ## Optional Benchmark: JLPT N3
 
-| Textbooks | Reading          | Listening      |
-|:----------|:-----------------|:---------------|
+| Textbooks | Reading           | Listening       |
+|:---       |:---               |:---             |
 |Tobira     |Childhood Favorite|Nihongo Switch  |
 |Book on culture (uchi, soto, amaeru, etc.)|||
 
