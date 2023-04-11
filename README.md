@@ -77,7 +77,7 @@ I hope you're sufficiently motivated. If you're used to life inside of an alphab
 
 1. **Learn hiragana**. All of them. Virtual Anki cards or physical flash cards or writing the full chart from memory. Take a week or two or even a month or five to learn them.
 2. **Learn katakana**. All of them. Timeframe and methodology as above.
-3. **Start learning kanji**. As soon as possible. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. You can use
+3. **Start learning kanji**. As soon as you know hiragana and katakana. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. You can use
     - physical flash cards, or
     - virtual flashcards like [Anki](https://apps.ankiweb.net/), or
     - [WaniKani](https://www.wanikani.com/), my personal favorite (I'm not being paid to say that), or one of its (free) derivatives, or
