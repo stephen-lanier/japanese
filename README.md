@@ -12,6 +12,11 @@ Everything you need to learn Japanese from first word to first novel.
 Link to discord goes here.
 
 # Curriculum
+- [Philosophy](#philosophy)
+  - [Irreducible Components](#irreducible-components)
+  - [Extensive Consumption](#extensive-consumption)
+  - [Socialize](#socialize)
+  - [Summary](#summary)
 - [Prework](#prework)
 - [Squiggles](#squiggles)
 - [Foundations](#foundations)
@@ -21,19 +26,19 @@ Link to discord goes here.
 
 ---
 
-## Prework
+# Philosophy
 
-### Course Roadmap and Philosophy
+## Course Roadmap and Philosophy
 The quickest, most effective way to learn any language is based on these three principles. We'll see how they specifically apply to learning Japanese.
 
-#### Language Learning Linchpins
+## Language Learning Linchpins
 1. **Start learning the irreducibles as soon as possible.** For Japanese, that means vocabulary and kanji.
 2. **Consume a lot of native material.** Read books and articles and manga; watch movies and anime; listen to podcasts and music.
 3. **Make it social.**
 
 Let's get into what each of these means.
 
-#### Irreducible Components
+## Irreducible Components
 
 First, all languages have a number of what I'm going to call **irreducible components**, things you have to learn that you can't gimmick yourself out of. There are no shortcuts for learning these things (which doesn't necessarily mean they have to always be dull, hard work). Irreducible components exist in contrast to something that you could learn at the more conceptual level, the type of content we usually think of as being on a math or a chemistry test, for example. These kinds of tests are full of problems that target your ability to apply concepts rather than check your recall on rote memorization. (Hopefully.) You learn how to multiply numbers, and then you apply that knowledge in novel ways on the test, i.e., you multiply two numbers that you've never multiplied before. Compare that with learning vocabulary. There is no concept under the word φυχή that tells you what that word means. That word, *psyche*, means "life" in ancient Greek. The word itself is the most fundamental piece of knowledge you need to understand it. There is no word multiplication you can do to figure out what that word means. You know it or you don't. (With some big caveats.)
 
@@ -68,48 +73,54 @@ Plus, remember those caveats from earlier? Those little helper patterns that mak
 I hope you're sufficiently motivated. If you're used to life inside of an alphabet, kanji can seem tedious and archaic, but I pinky promise, in the long run they help with both listening and reading comprehension. Plus, they're just beautiful, aren't they?
 
 
-##### How to apply it
+## How to apply it
 
 1. **Learn hiragana**. All of them. Anki or physical flash cards or writing the full chart from memory. Take a week or two or even a month or five to learn them.
 2. **Learn katakana**. All of them. Timeframe and methodology as above.
 3. **Start learning kanji**. As soon as possible. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. You can use
   - physical flash cards, or
   - virtual flashcards like [Anki](https://apps.ankiweb.net/), or
-  - [WaniKani](https://www.wanikani.com/) (my personal favorite, I'm not being paid to say that) or one of its (free) derivatives.
+  - [WaniKani](https://www.wanikani.com/), my personal favorite (I'm not being paid to say that), or one of its (free) derivatives.
 
-Irreducible components, namely vocab and kanji, can be massive barriers to comfortably understanding material in the target language, so start early, because the benefits compound continuously (I have no data to back this, merely a sincere and powerful feeling of conviction behind my sternum).
+Irreducible components, namely vocab and kanji, can be massive barriers to comfortably understanding and producing material in the target language, so start early, because the benefits compound continuously (I have no data to back this, merely a sincere and powerful feeling behind my sternum).
 
 So start, as close to day one as possible. Be flexible, but be relentless. Start with a few hundred of the most common words. When you find a song, anime, manga, book you like, pick out vocab, even a single new word, and throw it on your pile of flashcards.
 
-#### Extensive Consumption
+## Extensive Consumption
 
 Next, you need to **consume lots of native material**. Lots. As soon as you can. Even if a lot of it doesn't make sense. Importantly, this is of much greater importance than language production (though still a necessary component). The credit for this idea goes entirely to Kato Lomb, who has written one of the best books ever on language learning (and indeed one of the best books ever, period), [*Polyglot: How I Learn Languages*](https://www.goodreads.com/en/book/show/6290281). For credit, merely I can vouch for its effectiveness.
 
-##### How to apply it
+## How to apply it
 
-#### Socialize
+## Socialize
 
-##### How to apply it
+## How to apply it
 
-### Motivation
+## Summary
 
-### Suggested Reading: *English Grammar for Students of Latin*
+
+
+# Prework
+
+## Motivation
+
+## Suggested Reading: *English Grammar for Students of Latin*
 
 ## Logistics
-#### Time Commitment
-#### Software and Tools
+### Time Commitment
+### Software and Tools
 
-## Squiggles
+# Squiggles
 
-#### Hiragana
-#### Kanji
-#### Katakana
+## Hiragana
+## Kanji
+## Katakana
 
 [Back to Curriculum](#curriculum)
 
-## Foundations
+# Foundations
 
-#### Optional Benchmark: JLPT N4
+## Optional Benchmark: JLPT N4
 
 | Textbooks | Reading    | Listening      |
 |:----------|:-----------|:---------------|
@@ -121,7 +132,7 @@ Next, you need to **consume lots of native material**. Lots. As soon as you can.
 
 ## 中級・ちゅうきゅう <a id="intermediate"></a>
 
-#### Optional Benchmark: JLPT N3
+## Optional Benchmark: JLPT N3
 
 | Textbooks | Reading          | Listening      |
 |:----------|:-----------------|:---------------|
@@ -130,9 +141,9 @@ Next, you need to **consume lots of native material**. Lots. As soon as you can.
 
 [Back to Curriculum](#curriculum)
 
-## 上級
+# 上級
 
-#### Optional Benchmark: JLPT N2
+## Optional Benchmark: JLPT N2
 
 | Textbooks                | Reading               | Listening             |
 |:---                      |:---                   |:---                   |
@@ -141,9 +152,9 @@ Next, you need to **consume lots of native material**. Lots. As soon as you can.
 
 [Back to Curriculum](#curriculum)
 
-## 真如
+# 真如
 
-#### Optional Benchmark: JLPT N1
+## Optional Benchmark: JLPT N1
 
 | Textbooks        | Reading                       | Listening          |
 |:---              |:---                           |:---                |
