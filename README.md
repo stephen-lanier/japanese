@@ -9,9 +9,6 @@ Everything you need to learn Japanese from first word to first novel.
 - [Curriculum](#curriculum)
 - [Reach Me](#reach-me)
 
-# Summary
-Summary goes here.
-
 # Community
 Link to discord goes here.
 
