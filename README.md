@@ -120,14 +120,14 @@ And that's totally okay! I say all of this not to discourage, but to temper expe
 
 ## How to apply it
 
-- **Compile a list of some favorite movies, books, manga, songs.** Prepare to read and reread, watch and rewatch, listen and relisten. See below for some ideas
+- **Compile a list of some favorite movies, books, manga, songs.** Prepare to read and reread, watch and rewatch, listen and relisten. Try these to get some ideas.
   - **Why did you decide to learn Japanese?** Was there a movie, a show, a book that inspired you?
   - **Childhood favorites.** The Harry Potter books are published in nearly every language on the planet, and you can get them online for free or from an ebook publisher or even download them from J.K. Rowling's webpage for a fee. *Eragon* was a childhood favorite for me. I reread it multiple times while learning Japanese, and I'm rereading it now as I learn Spanish.
   - **Explore some light novels.** These are a perfect entry-level difficulty to aim for. For books that are truly children's literature, they're actually harder to learn from as a foreign language learner. They're almost entirely in hiragana in something akin to baby-talk. Light novels, however, are written with kanji, many of them providing the readings for those kanji, at a level easily consumed by Japanese middle or high schoolers. This is prime difficulty level for you, the foreign language learner. They're interesting and grammatically similar to what you'd see in a Japanese textbook.
   - **Podcasts.** There are actually a ton of excellent podcasts aimed at Japanese language learners. JapanesePod101, NihongoSwitch, ... the list goes on.
   - **Manga and anime.** Ditto.
   - **Whatever you're interested in**. Can you consume it in Japanese?
-- **Reminder: it's okay if a lot or even most of it doesn't make sense.** Be like Kato Lomb. You're playing the long game. You don't have to understand. Just enjoy the scenery, and your understanding will grow with them. 
+- **Reminder: it's okay if a lot or even most of it doesn't make sense.** Be like Kato Lomb. You're playing the long game. You don't have to understand. Just enjoy the scenery, and your understanding will grow with them.
 
 
 
@@ -167,7 +167,7 @@ Lean into starting on the irreducibles. Master hiragana and katakana and **figur
 |:---       |:---         |:---           |
 |Genki I    |Manga        |Music          |
 |Genki II   |Music Lyrics |JapanesePod101 |
-|Tofugu     |             |               |
+|Textfugu     |             |               |
 
 [Back to Curriculum](#curriculum)
 
