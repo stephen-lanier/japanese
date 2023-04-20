@@ -28,7 +28,6 @@ Link to discord goes here.
 
 # Philosophy
 
-## Course Roadmap and Philosophy
 The quickest, most effective way to learn any language is based on these three principles. We'll see how they apply to learning Japanese specifically.
 
 ## Language Learning Linchpins
@@ -40,7 +39,11 @@ Let's get into what each of these means.
 
 ## Irreducible Components
 
-First, all languages have a number of what I'm going to call **irreducible components**, things you have to learn that you can't gimmick yourself out of. There are no shortcuts for learning these things (which doesn't necessarily mean they have to always be dull, hard work). Irreducible components exist in contrast to something that you could learn at the more conceptual level, the type of content we usually think of as being on a math or a chemistry test, for example. These kinds of tests are full of problems that target your ability to apply concepts rather than check your recall on rote memorization. (Hopefully.) You learn how to multiply numbers, and then you apply that knowledge in novel ways on the test, i.e., you multiply two numbers that you've never multiplied before. Compare that with learning vocabulary. There is no concept under the word φυχή that tells you what that word means. That word, *psyche*, means "life" in ancient Greek. The word itself is the most fundamental piece of knowledge you need to understand it. There is no word multiplication you can do to figure out what that word means. You know it or you don't. (With some big caveats.)
+First, all languages have a number of what I'm going to call **irreducible components**, things you have to learn that you can't gimmick yourself out of. There are no shortcuts for learning these things (which doesn't necessarily mean they have to always be dull, hard work).
+
+Irreducible components exist in contrast to something that you could learn at the more conceptual level, the type of content we usually think of as being on a math or a chemistry test, for example. These kinds of tests are full of problems that target your ability to apply concepts rather than check your recall on rote memorization. (Hopefully.) You learn how to multiply numbers, and then you apply that knowledge in novel ways on the test, i.e., you multiply two numbers that you've never multiplied before.
+
+Compare that with learning vocabulary. There is no concept under the word φυχή that tells you what that word means. That word, *psyche*, means "life" in ancient Greek. The word itself is the most fundamental piece of knowledge you need to understand it. There is no word multiplication you can do to figure out what that word means. You know it or you don't. (With some big caveats.)
 
 Let's talk briefly about those caveats because it's not all sheer, rote memorization. The more you learn a language, the more tricks you accumulate to help you out, at least to some degree. If you know that adding "-(e)r" to the end of a verb in English is one pattern for coming up with nouns for people who do those things professionally or seriously or frequently, then you can start to guess what a "baker" is if you know the word "bake". You can start to guess what a "writer" is if you know the word "write". I'm told that in the original Hebrew, God's confrontation with Cain is [quite sassy](https://mobile.twitter.com/JessiSheron/status/1503904577380405255). It involves the expression "my brother's keeper", which then turned into a whole book and movie inspired by the same line, and it means... you get it.
 
@@ -77,9 +80,9 @@ I hope you're sufficiently motivated. If you're used to life inside of an alphab
 
 1. **Learn hiragana**. All of them. Virtual Anki cards or physical flash cards or writing the full chart from memory. Take a week or two or even a month or five to learn them.
 2. **Learn katakana**. All of them. Timeframe and methodology as above.
-3. **Start learning kanji**. As soon as you know hiragana and katakana. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. You can use
+3. **Start learning kanji**. As soon as you know hiragana and katakana. Continue until (and probably after) you die. You exist to learn kanji. This is your life now. When you know them all, no you don't. Welcome to the enclave. Aim for 80~90% retention. [INSERT LINK TO RESEARCH]. You can use
     - physical flash cards, or
-    - virtual flashcards like [Anki](https://apps.ankiweb.net/), or
+    - virtual flashcards like [Anki](https://apps.ankiweb.net/).
     - [WaniKani](https://www.wanikani.com/), my personal favorite (I'm not being paid to say that), or one of its (free) derivatives, or
     - even something like [Remembering the Kanji](https://www.goodreads.com/book/show/11377627-remembering-the-kanji-1) to get yourself started remembering meanings but not pronunciations
 
@@ -133,9 +136,39 @@ And that's totally okay! I say all of this not to discourage, but to temper expe
 
 ## Socialize
 
+This one is fairly straightforward I think.
+
+We're social creatures! Insert research on blue zones, longevity, mental health, therapy as how we connect to others.
+
+Bringing a social aspect to learning a new language can do a lot for our motivation, can even act as a a kind of buffer against periods of relatively low intrinsic motivation. There will be times when you don't feel as excited to learn Japanese as you did on that first day, when you prognosticated 神さま smiling down on you from heaven, his love 木漏れ日ing through the 桜, 木魚 singing in the distance, ジャスミン and 煎茶 fragrant on a warm spring breeze, disembodied voices rising up from the earth, singing haiku.　Yes, the day will come when you lose sight of that distant vision. And when it does comes, the reminder of a more short-term reward, a social event where Japanese will make an appearance in some form or another, can help you continue taking one step at a time towards that distant vision.
+
+It's a tempting to, in our mind's eye, draw a straight line between "be social" and "learn Japanese" and to come up with "talk to Japanese people", and don't get me wrong, that's great, but it's inaccurate to think that's the only way to apply the heavenly mandate to "be social", and that's good news. Japanese people are relatively hard to come by most of the world over after all.
+
+When I was in college, the Japanese department was relatively small. Freshman year, there were maybe 100 of us in Japanese 101 spread out across 4 classes (read: 25 people in a class), and by the time we got to our third year, after the foreign language requirement had been satisfied, there were maybe 25 of us *total* in the whole department.
+
+These people, my cohort, were all learners of Japanese, and apart from a native Japanese instructor, were my only connection to Japan for the better part of 3 years as I studied it in university.
+
+These were not people who could fluently perform that thing I was chasing, most of them had never been to Japan, and most of us had varied interests that were only proximally related: some were interested in manga, some in anime, some in Japanese culture, some in Japanese literature, some in gamer culture, some in Buddhism.
+
+And our friendship was a great glue for my Japanese studies. We got to study together, hangout after classes, laugh about our language learning mishaps, and ultimately share in the excitement of studying Japanese. There were times when I was totally convinced I would never get through a book in Japanese on my own, a tantalizing treat that first drew me to learning Japanese. During those times, which might have lasted a couple days or a couple months, I was anything but excited to study Japanese. But those friendships kept me going to Japanese class.
+
+So make your Japanese studies social. You're helping yourself stay the course by diversifying the set of things that motivates you. There's probably already some highly personal vision that's motivating you to study Japanese. Add to it. Give your brain the promise of a hangout, some company, the possibility of a shared laugh as an additional incentive to learn 10 new vocabulary words. These diversified motivations about a single topic/endeavor play a great harmony together in the long run.
+
 ## How to apply it
 
-## Summary
+- **Make your Japanese studies social!** You can do this with native speakers or, even easier, with other learners of Japanese. You can do this online or offline.
+- Take a class at a local university or community college
+- Check out some online forums like the one at WaniKani
+- Hire an online tutor who you can see at least weekly
+- Join the discord here!
+- Check out some language exchange apps
+- Check out our own in-house Japanese course which keeps this principle of socializing with language learning as a central tenet.
+
+## Philosophy: Summary
+
+1. Learn hiragana and katakana and then, as soon as possible, **jump into learning kanji and vocabulary**. These are the twin mountains you have to climb to get comfortable with and in Japanese.
+2. **Extensive consumption of native materials.** Kato Lomb and I are biased toward **extensive reading**, but any native material will do. Books, anime, manga, podcasts, music—you name it, all fair game. Start sooner than when you "feel ready". You don't have to understand everything or even most of everything.
+3. **Make your studies social.** The promise of a social aspect provides a buffer against periods of disinterest and discouragement, and truly, the combination of personal motivations for learning Japanese as well as the motivation to be social and hang out come together in a sum that's greater than its parts.
 
 
 
