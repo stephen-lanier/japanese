@@ -16,7 +16,7 @@ Link to discord goes here.
   - [Irreducible Components](#irreducible-components)
   - [Extensive Consumption](#extensive-consumption)
   - [Socialize](#socialize)
-  - [Summary](#summary)
+  - [Summary](#philosophy:-summary)
 - [Prework](#prework)
 - [Squiggles](#squiggles)
 - [Foundations](#foundations)
