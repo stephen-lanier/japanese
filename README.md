@@ -22,7 +22,7 @@ Link to discord goes here.
   - [Philosophy: Summary](#philosophy-summary)
   - [Additional Resources](#additional-resources)
 - [Squiggles](#squiggles)
-  - [gSuggested Background Knowledge](#suggested-background-knowledge)
+  - [Suggested Background Knowledge](#suggested-background-knowledge)
   - [Hiragana](#hiragana)
   - [Katakana](#katakana)
   - [Kanji](#kanji)
