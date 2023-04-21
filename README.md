@@ -212,7 +212,7 @@ Lean into starting on the irreducibles. Master hiragana and katakana and **figur
 |:---       |:---         |:---           |
 |Genki I    |Manga        |Music          |
 |Genki II   |Music Lyrics |JapanesePod101 |
-|Textfugu     |             |               |
+|Textfugu   |             |               |
 
 [Back to Curriculum](#curriculum)
 
